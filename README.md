@@ -1,2 +1,3 @@
 # app-dev
-My forst repository
+## My favorite anime is One Piece
+My first repository
